@@ -1,0 +1,42 @@
+
+p{
+    font-size: 22px;
+    font-family: 'Source Serif Pro', serif;
+    
+}
+
+div{
+    background-color: #fbe0c4;
+    color: #0061a8;
+}
+
+h1{
+    color:#0061a8;
+    padding: 20px;
+    
+}
+
+h2{
+    color: #8ab6d6; 
+}
+
+
+
+a{
+    text-decoration-line: none;
+    color: #2978b5;
+    border-bottom: 4px dotted #f8a488;
+    border-top: 4px dotted #f8a488;
+    margin: 10px;
+}
+
+img{
+    width: 600px;
+    height: 300px;
+}
+
+li{
+    color: #8ab6d6;
+    text-shadow: 2px 2px #e9e9e9;
+    font-size: 30px;
+}
